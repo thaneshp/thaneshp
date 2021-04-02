@@ -3,7 +3,7 @@
 ## :mag: About me 
 
 - :mortar_board: Recent Computing graduate from Melbourne University (Dec 2020)
-- :telephone: Currently working in Customer Service
+- :floppy_disk: Currently working as a Software Development Consultant
 - :open_book: Eager to constanly learn more
 - :mountain: Enjoy exploring Melbourne's peaceful sceneries
 
