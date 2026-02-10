@@ -6,7 +6,7 @@
 
 ## What I Do
 
-I'm a builder at heart who loves creating technology that makes a difference. My obsession with automation and building led me to Site Reliability Engineering, focussing on deployment automation, and bridging the gap between development and operations.
+I'm a builder at heart who loves working with technology that makes a difference. My obsession with automation and building led me to Site Reliability Engineering, focussing on deployment automation, and bridging the gap between development and operations.
 
 ## Tech Stack
 
@@ -14,7 +14,7 @@ I'm a builder at heart who loves creating technology that makes a difference. My
 def my_skills():
     return {
         "languages": ["Python", "Bash"],
-        "infrastructure": ["Terraform", "Docker", "Kubernetes"],
+        "infrastructure": ["Terraform", "Docker", "Kubernetes", "GCP"],
         "specialties": ["SRE", "Cloud", "Automation", "Infrastructure Engineering"],
         "passion": ["Building reliable systems", "Continuous learning"]
     }
