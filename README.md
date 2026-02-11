@@ -1,4 +1,4 @@
-# Hey there! I'm Thanesh.
+# Hey there! I'm Thanesh. 👋
 
 **Site Reliability Engineer | Builder at Heart**
 
