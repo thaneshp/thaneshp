@@ -14,7 +14,7 @@ I'm a builder at heart who loves working with technology that makes a difference
 def my_skills():
     return {
         "languages": ["Python", "Bash"],
-        "infrastructure": ["Terraform", "Docker", "Kubernetes", "GCP"],
+        "infrastructure": ["Terraform", "Docker", "Kubernetes", "Linux", "GCP"],
         "specialties": ["SRE", "Cloud", "Automation", "Infrastructure Engineering"],
         "passion": ["Building reliable systems", "Continuous learning"]
     }
