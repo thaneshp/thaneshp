@@ -35,7 +35,3 @@ When I'm not coding or with my family, you'll find me:
 - ✈️ **Traveling** - Exploring new places and cultures
 - 🛠️ **Building Side Projects** - Experimenting with new technologies
 - 👥 **Engaging with Others** - Connecting and learning from fellow technologists
-
-## Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanesh-pannirselvam/)
